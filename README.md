@@ -1,4 +1,4 @@
-# Travel Website
+# Travel Website :airplane:
 
 Welcome to the README file for the Simple Travel Website! This project is a basic travel website built using HTML, CSS, and a small part of JavaScript. In this document, you'll find information about the project structure, how to set it up, and how to make modifications.
 
